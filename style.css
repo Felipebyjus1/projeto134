@@ -1,0 +1,40 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    width: 10cm;
+    border-radius: 15px;
+}
+h3{
+    color: rgb(0, 125, 255);
+    background-color: rgb(0, 255, 255);
+    padding: 10px;
+    width: max-content;
+    border-radius: 15px;
+}
+h4{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    width: 10cm;
+    border-radius: 15px;
+}
+canvas{
+    border-style: solid;
+}
